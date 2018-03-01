@@ -40,3 +40,4 @@ errors
 sessions
 uploads
 databases
+*.bak
